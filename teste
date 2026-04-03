@@ -1,0 +1,95 @@
+{
+  "7-Zip": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/7z2600-x64.exe",
+    "file_name": "7zip.exe",
+    "silent_args": "/S"
+  },
+
+  "Discord": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/DiscordSetup.exe",
+    "file_name": "discord.exe",
+    "silent_args": "/S"
+  },
+
+  "Free Download Manager": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/fdm_x64_setup.exe",
+    "file_name": "fdm.exe",
+    "silent_args": "/S"
+  },
+
+  "Media Player Classic": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/MPC-HC.1.7.13.x64.exe",
+    "file_name": "mpc.exe",
+    "silent_args": "/S"
+  },
+
+  "Notepad++": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/npp.8.9.3.Installer.x64.exe",
+    "file_name": "notepadpp.exe",
+    "silent_args": "/S"
+  },
+
+  "qBittorrent": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/qbittorrent_5.1.4_x64_setup.exe",
+    "file_name": "qbittorrent.exe",
+    "silent_args": "/S"
+  },
+
+  "Steam": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/SteamSetup.exe",
+    "file_name": "steam.exe",
+    "silent_args": "/S"
+  },
+
+  "WeMod": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/WeMod-Setup.exe",
+    "file_name": "wemod.exe",
+    "silent_args": "/S"
+  },
+
+  "Xbox App Tool": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/GamingRepairTool.exe",
+    "file_name": "gamingrepairtool.exe",
+    "silent_args": "/S"
+  },
+
+  "LibreOffice": {
+    "type": "msi",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/LibreOffice_26.2.2_Win_x86-64.msi",
+    "file_name": "libreoffice.msi",
+    "silent_args": "/quiet /norestart"
+  },
+
+  "AOMEI Partition": {
+    "type": "archive",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/AOMEIPartAssist.7z",
+    "file_name": "aomei_partition.7z"
+  },
+
+  "Store LTSC": {
+    "type": "archive",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/LTSC-Add-MicrosoftStore-24H2.7z",
+    "file_name": "store_ltsc.7z"
+  },
+
+  "Wise Program Uninstaller": {
+    "type": "exe",
+    "url": "https://github.com/edenoel/apps/releases/download/studant/WPUSetup_3.2.8.272.exe",
+    "file_name": "wise.exe",
+    "silent_args": "/VERYSILENT"
+  },
+
+  "T Drive Lite": {
+    "type": "winget",
+    "id": "9PKTQ5699M62"
+  }
+}

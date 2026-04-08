@@ -69,7 +69,6 @@
     "url": "https://github.com/edenoel/apps/releases/download/studant/LTSC-Add-MicrosoftStore-24H2.7z",
     "file_name": "Store LTSC",
     "silent_args": "/VERYSILENT"
-
   },
 
  "Vc++ Completo": {

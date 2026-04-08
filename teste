@@ -72,9 +72,25 @@
 
   },
 
+ "Vc++ Completo": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/MPVCI_4.00_setup.exe",
+    "file_name": "Vc++ Completo",
+    "silent_args": "/VERYSILENT"
+ 
+  },
+
+ "cloudfare": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/Cloudflare_WARP_2026.3.851.0.msi",
+    "file_name": "cloudfare",
+    "silent_args": "/VERYSILENT"
+
+
+  },
+
   "Wise Program Uninstaller": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/WPUSetup_3.2.8.272.exe",
     "file_name": "wise.exe",
     "silent_args": "/VERYSILENT"
+
   }
 }

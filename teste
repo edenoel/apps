@@ -4,95 +4,83 @@
     "file_name": "7zip.exe",
     "silent_args": "/S"
   },
-
   "Discord": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/DiscordSetup.exe",
     "file_name": "discord.exe",
     "silent_args": "/S"
   },
-
   "Free Download Manager": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/fdm_x64_setup.exe",
     "file_name": "fdm.exe",
     "silent_args": "/S"
   },
-
   "Media Player Classic": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/MPC-HC.1.7.13.x64.exe",
     "file_name": "mpc.exe",
     "silent_args": "/S"
   },
-
   "Notepad++": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/npp.8.9.3.Installer.x64.exe",
     "file_name": "notepadpp.exe",
     "silent_args": "/S"
   },
-
   "qBittorrent": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/qbittorrent_5.1.4_x64_setup.exe",
     "file_name": "qbittorrent.exe",
     "silent_args": "/S"
   },
-
   "Steam": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/SteamSetup.exe",
     "file_name": "steam.exe",
     "silent_args": "/S"
   },
-
   "WeMod": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/WeMod-Setup.exe",
     "file_name": "wemod.exe",
     "silent_args": "/S"
   },
-
- "Xbox app tool": {
+  "Xbox app tool": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/GamingRepairTool.exe",
     "file_name": "Xbox app tool",
     "silent_args": "/S"
   },
-
-"Libre Office": {
+  "Libre Office": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/LibreOffice_26.2.2_Win_x86-64.msi",
     "file_name": "Libre Office",
     "silent_args": "/S"
   },
-
-"AOEM partition": {
+  "AOEM partition": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/AOMEIPartAssist.7z",
     "file_name": "AOEM partition",
     "silent_args": "/S"
   },
-
-"Store LTSC": {
+  "Store LTSC": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/LTSC-Add-MicrosoftStore-24H2.7z",
     "file_name": "Store LTSC",
     "silent_args": "/VERYSILENT"
   },
-
- "Vc++ Completo": {
+  "Vc++ Completo": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/MPVCI_4.00_setup.exe",
     "file_name": "Vc++ Completo",
     "silent_args": "/VERYSILENT"
   },
-
- "cloudfare": {
+  "cloudfare": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/Cloudflare_WARP_2026.3.851.0.msi",
     "file_name": "cloudfare",
     "silent_args": "/VERYSILENT"
   },
-
-"DefenderRemover": {
+  "DefenderRemover": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/DefenderRemover.7z",
     "file_name": "DefenderRemover",
     "silent_args": "/VERYSILENT"
- },
-
+  },
   "Wise Program Uninstaller": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/WPUSetup_3.2.8.272.exe",
     "file_name": "wise.exe",
     "silent_args": "/VERYSILENT"
-
+  },
+  "Partition Magic": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/Partition.Magic.4.0.With.Product.Key.zip",
+    "file_name": "Partition Magic"
   }
 }

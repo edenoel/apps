@@ -78,9 +78,5 @@
     "url": "https://github.com/edenoel/apps/releases/download/studant/WPUSetup_3.2.8.272.exe",
     "file_name": "wise.exe",
     "silent_args": "/VERYSILENT"
-  },
-  "Partition Magic": {
-    "url": "https://github.com/edenoel/apps/releases/download/studant/Partition.Magic.4.0.With.Product.Key.zip",
-    "file_name": "Partition Magic"
   }
 }

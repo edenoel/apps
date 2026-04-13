@@ -73,5 +73,9 @@
     "url": "https://github.com/edenoel/apps/releases/download/studant/WPUSetup_3.2.8.272.exe",
     "file_name": "wise.exe",
     "silent_args": "/VERYSILENT"
+  },
+  "Winboot": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/winboot.7z",
+    "file_name": "Winboot"
   }
 }

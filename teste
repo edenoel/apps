@@ -83,6 +83,12 @@
     "silent_args": "/VERYSILENT"
   },
 
+"DefenderRemover": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/DefenderRemover.7z",
+    "file_name": "DefenderRemover",
+    "silent_args": "/VERYSILENT"
+ },
+
   "Wise Program Uninstaller": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/WPUSetup_3.2.8.272.exe",
     "file_name": "wise.exe",

@@ -49,11 +49,6 @@
     "file_name": "Libre Office",
     "silent_args": "/S"
   },
-  "AOEM partition": {
-    "url": "https://github.com/edenoel/apps/releases/download/studant/AOMEIPartAssist.7z",
-    "file_name": "AOEM partition",
-    "silent_args": "/S"
-  },
   "Store LTSC": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/LTSC-Add-MicrosoftStore-24H2.7z",
     "file_name": "Store LTSC",

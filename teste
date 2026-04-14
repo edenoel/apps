@@ -81,5 +81,9 @@
   "Dividir Windows": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/dividiesdwindows.exe",
     "file_name": "Dividir Windows"
+  },
+  "Ed Jason Editor": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/EDJsonManager.exe",
+    "file_name": "Ed Jason Editor"
   }
 }

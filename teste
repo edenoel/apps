@@ -77,5 +77,9 @@
   "Winboot": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/winboot.7z",
     "file_name": "Winboot"
+  },
+  "Dividir Windows": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/dividiesdwindows.exe",
+    "file_name": "Dividir Windows"
   }
 }

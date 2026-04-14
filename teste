@@ -85,5 +85,9 @@
   "Ed Jason Editor": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/EDJsonManager.exe",
     "file_name": "Ed Jason Editor"
+  },
+  "EASYUEFI": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/EasyUEFI.Technician.6.2.0.x64.rar",
+    "file_name": "EASYUEFI"
   }
 }

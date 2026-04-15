@@ -97,5 +97,9 @@
   "Pack Icones": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/pack.icones.7z",
     "file_name": "Pack Icones"
+  },
+  "Winget  Install": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/WINGET.INSTALL.vfinal.exe",
+    "file_name": "Winget  Install"
   }
 }

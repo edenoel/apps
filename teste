@@ -101,5 +101,9 @@
   "Winget  Install": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/WINGET.INSTALL.vfinal.exe",
     "file_name": "Winget  Install"
+  },
+  "BCDEDITOR": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/bcdeditor.exe",
+    "file_name": "BCDEDITOR"
   }
 }

@@ -105,5 +105,8 @@
   "BCDEDITOR": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/bcdeditor.exe",
     "file_name": "BCDEDITOR"
+  },
+  "Layout riva": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/layout.riva.7z"
   }
 }

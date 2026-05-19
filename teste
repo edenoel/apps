@@ -108,5 +108,8 @@
   },
   "Layout riva": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/layout.riva.7z"
+  },
+  "AIDA64": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/AIDA.7z"
   }
 }

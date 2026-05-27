@@ -111,5 +111,8 @@
   },
   "AIDA64": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/AIDA.7z"
+  },
+  "FPS": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/FPS.7z"
   }
 }

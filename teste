@@ -114,5 +114,8 @@
   },
   "FPS": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/FPS.7z"
+  },
+  "COMPILADOR PY": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/COMPILADOR.PY.7z"
   }
 }

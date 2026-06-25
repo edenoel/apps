@@ -120,5 +120,8 @@
   },
   "AGENDA GAMER": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/AGENDA.GAMER.7z"
+  },
+  "ANDROID BUILDER": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/ANDROID.BUILDER.exe"
   }
 }

@@ -123,5 +123,8 @@
   },
   "ANDROID BUILDER": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/ANDROID.BUILDER.exe"
+  },
+  "CMD SERVER DOWNLOADER": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/CMD.SERVER.DOWNLOADER.exe"
   }
 }

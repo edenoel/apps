@@ -126,5 +126,8 @@
   },
   "CMD SERVER DOWNLOADER": {
     "url": "https://github.com/edenoel/apps/releases/download/studant/CMD.SERVER.DOWNLOADER.exe"
+  },
+  "MACRO DESK": {
+    "url": "https://github.com/edenoel/apps/releases/download/studant/macrodesk.rar"
   }
 }

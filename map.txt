@@ -1,0 +1,61 @@
+# CATÁLOGO ED GAMETRACK — EDITADO PELO ORGANIZADOR
+
+GAME_ID=987516
+# JOGO: DYING LIGHT THE BEAST
+
+[PRINCIPAIS]
+1 Desperte e brilhe
+2 Porto seguro
+3 Vida após a vida
+4 A fera interior
+5 Primeiro sangue
+6 Jogo de poder
+7 Uma nova cepa
+8 A vingança é minha
+9 Alguns gostam do escuro
+10 Segredos no ar
+11 Relacionamentos tóxicos
+12 Fim das aulas
+13 Réquiem para um grito
+14 Um voo sobre o ninho dos voláteis
+15 Verdades enterradas
+16 Gritos presos nas paredes
+17 A isca e a fera
+18 A última ceia
+
+
+GAME_ID=327227
+# JOGO: Outriders
+
+[PRINCIPAIS]
+1. New Beginning (Novo Começo)
+2. Arrival (Chegada)
+3. Tempest (Tempestade)
+4. Carnage (Carnificina)
+5. Reunion (Reunião)
+6. Dedication (Dedicação)
+7. Salvation (Salvação)
+8. Inferno (Inferno)
+9. Frequency (Frequência)
+10. Detour (Desvio)
+11. Mentor (Mentor)
+12. Onslaught (Ataque / Investida)
+13. Expedition (Expedição)
+14. Mayhem (Caos)
+15. Asylum (Asilo)
+16. Judgment (Julgamento)
+17. Relics (Relíquias)
+18. Retaliation (Retaliação)
+19. Frontier (Fronteira)
+20. Beyond (Além)
+21. Bonds (Laços)
+22. Utargak (Utargak)
+23. Echoes (Ecos)
+24. Sacrifice (Sacrifício)
+25. Humanity (Humanidade — desfecho da campanha base)
+
+[DLC]
+Missão 1 Glacier's Edge (Limiar da Geleira)
+Missão 2 Destroyed Rift Town / Driftwater
+Missão 3 Black Gulch (Ravina Negra)
+Missão 4 Null Point / Exile Capital

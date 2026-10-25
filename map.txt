@@ -54,8 +54,74 @@ GAME_ID=327227
 24. Sacrifice (Sacrifício)
 25. Humanity (Humanidade — desfecho da campanha base)
 
-[DLC]
+[DLCS]
 Missão 1 Glacier's Edge (Limiar da Geleira)
 Missão 2 Destroyed Rift Town / Driftwater
 Missão 3 Black Gulch (Ravina Negra)
 Missão 4 Null Point / Exile Capital
+
+
+GAME_ID=486727
+# JOGO: Aragami 2
+
+[PRINCIPAIS]
+CAPÍTULO 1 — O RENASCIDO
+1. The Elder's Scroll / O Pergaminho do Ancião
+2. Securing Supplies / Garantindo Suprimentos
+3. Sending a Message / Enviando uma Mensagem
+4. Approaching the Enemy / Aproximando-se do Inimigo
+5. Help the Militia I / Ajudando a Milícia I
+6. Wails in the Night / Lamentos na Noite
+CAPÍTULO 2 — A SACERDOTISA
+7. Approaching the Mines / Aproximando-se das Minas
+8. Sumire's Old Master / O Antigo Mestre de Sumire
+9. Mysterious Assignment / Missão Misteriosa
+10. Mysterious Assassination / Assassinato Misterioso
+11. Akatsuchi Strategic Information / Informações Estratégicas de Akatsuchi
+12. Rescue of Akatsuchi / Resgate de Akatsuchi
+CAPÍTULO 3 — BRASAS
+13. Help the Militia II / Ajudando a Milícia II
+14. Camp Sabotage / Sabotagem do Acampamento
+15. Akatsuchi's Archive / Arquivo de Akatsuchi
+16. The Still of the Sacred Flame / O Alambique da Chama Sagrada
+17. Ash Flower / Flor de Cinzas
+18. Help the Militia III / Ajudando a Milícia III
+19. Akatsuchi's Painter / O Pintor de Akatsuchi
+20. Secret of Daikizo Mine / Segredo da Mina Daikizo
+CAPÍTULO 4 — EM CHAMAS
+21. Help / Ajuda
+22. Nensho's Plans / Os Planos de Nensho
+23. Forgiveness / Perdão
+24. Aragami Soul I / Alma de Aragami I
+25. Aragami Soul II / Alma de Aragami II
+26. Aragami Soul III / Alma de Aragami III
+CAPÍTULO 5 — FAMÍLIA
+27. Family I / Família I
+28. Family II / Família II
+29. Family III / Família III
+30. Family IV / Família IV
+31. Family V / Família V
+32. Protection Seal I / Selo de Proteção I
+33. Protection Seal II / Selo de Proteção II
+CAPÍTULO 6 — ESTRATAGEMA
+34. Help the Militia IV / Ajudando a Milícia IV
+35. Strike Akatsuchi / Ataque a Akatsuchi
+36. Sabotage Nensho / Sabotagem contra Nensho
+37. Rob Nensho / Roubando Nensho
+38. Sabotage Akatsuchi / Sabotagem contra Akatsuchi
+39. Strike Akatsuchi II / Ataque a Akatsuchi II
+40. A Simple Mission / Uma Missão Simples
+CAPÍTULO 7 — CONSPIRAÇÃO
+41. Protect the People I / Protegendo o Povo I
+42. Protect the People II / Protegendo o Povo II
+43. Protect the People III / Protegendo o Povo III
+44. Protect the People IV / Protegendo o Povo IV
+45. Looking for Clues / Procurando Pistas
+CAPÍTULO 8 — LAÇOS
+46. Memories / Memórias
+47. Akatsuchi's Sacred Relics / Relíquias Sagradas de Akatsuchi
+48. Alliance with Akai / Aliança com Akai
+49. Alliance with Nobu / Aliança com Nobu
+CAPÍTULO 9 — DESFECHO
+50. Arrangements / Preparativos
+51. Tsubuyaku / Tsubuyaku

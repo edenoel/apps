@@ -233,3 +233,16 @@ GAME_ID=50732
 30. The Last Breakout / A Última Fuga
 31. Blood & Bandages / Sangue e Bandagens
 32. A Broken Peace / Uma Paz Desfeita
+
+
+GAME_ID=452650
+# JOGO: Pragmata
+
+[PRINCIPAIS]
+1. Prologue / Prólogo
+2. Solar Power Plant / Usina de Energia Solar
+3. Mass Production Array / Complexo de Produção em Massa
+4. Terra Dome / Domo Terrestre
+5. Lunum Mines / Minas de Lunum
+6. Experimental Pragmatics / Centro de Pragmática Experimental
+7. Central Port / Porto Central

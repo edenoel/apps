@@ -125,3 +125,111 @@ CAPÍTULO 8 — LAÇOS
 CAPÍTULO 9 — DESFECHO
 50. Arrangements / Preparativos
 51. Tsubuyaku / Tsubuyaku
+
+
+GAME_ID=801638
+# JOGO: Wo Long: Fallen Dynasty
+
+[PRINCIPAIS]
+PARTE 1 — ENCONTRO
+Principal
+1. Village of Calamity / Vila da Calamidade
+PARTE 2 — ILUSÃO
+Principais
+2. Two Chivalrous Heroes / Dois Heróis Cavalheirescos
+3. The Valley of the Crying Wraiths / Vale dos Espectros Lamentadores
+4. The Demon Fort of the Yellow Heaven / Fortaleza Demoníaca do Céu Amarelo
+Secundárias
+5. The Yellow Heaven Burns / O Céu Amarelo Arde
+6. Tale of Guiguzi / A História de Guiguzi
+7. The Flying Swallow of Heishan / A Andorinha Voadora de Heishan
+PARTE 3 — CORRUPÇÃO
+Principais
+8. In Search of the Immortal Wizard / Em Busca do Feiticeiro Imortal
+9. Fall of the Corrupted Eunuch / Queda do Eunuco Corrompido
+Secundárias
+10. Shadow of the Sacred Mountain / Sombra da Montanha Sagrada
+11. Escape From the Capital / Fuga da Capital
+12. The Valorous Trio / O Trio Valoroso
+PARTE 4 — TIRANIA
+Principais
+13. The Battle of Hulaoguan Pass / A Batalha do Passo de Hulaoguan
+14. Centuries of Glory Burned Away / Séculos de Glória Reduzidos a Cinzas
+15. Darkness Over the Hanshui River / Escuridão Sobre o Rio Hanshui
+16. Tyrant's Final Banquet / O Último Banquete do Tirano
+Secundárias
+17. Like Father, Like Son / Tal Pai, Tal Filho
+18. The Lost Sacred Artifact / O Artefato Sagrado Perdido
+19. The Tiger's Loyal Subjects / Os Súditos Leais do Tigre
+20. Fate of the Entertainer / O Destino da Artista
+21. Massacre of Meiwu Fort / Massacre na Fortaleza de Meiwu
+22. Realm of Battle / Reino da Batalha
+23. Green Plum, Warm Liquor / Ameixas Verdes, Vinho Quente
+24. Zhao Yun's Exile / O Exílio de Zhao Yun
+25. The Unparalleled Spear / A Lança Incomparável
+PARTE 5 — FORTALEZA
+Principais
+26. War's Flames Blaze Fiercely / As Chamas da Guerra Ardem Intensamente
+27. The Way of the Warrior / O Caminho do Guerreiro
+28. Lu Bu, Mightiest Among Men / Lu Bu, o Mais Poderoso dos Homens
+Secundárias
+29. The Uninhibited Heart / O Coração Indomável
+30. Caliber of a Hero / A Grandeza de um Herói
+31. Legend of the Thunder God / A Lenda do Deus do Trovão
+32. Preachers of the Dark Path / Pregadores do Caminho Sombrio
+PARTE 6 — MALÍCIA
+Principais
+33. Behold the Glaive of Righteousness / Contemple a Lâmina da Justiça
+34. Decisive Battle of Guandu / Batalha Decisiva de Guandu
+Secundárias
+35. The Assault on Wuchao / O Ataque a Wuchao
+36. Let's Make Our Armor Shine! / Vamos Fazer Nossa Armadura Brilhar!
+37. The Fearless Blade / A Lâmina Destemida
+38. Heirloom Seal of the Realm / O Selo Imperial do Reino
+39. The Request of Goddess Luo / O Pedido da Deusa Luo
+PARTE 7 — ASCENSÃO
+Principal
+40. The Crouching Dragon Roars / O Dragão Adormecido Ruge
+Secundárias
+41. The Two Walls Stand Tall / As Duas Muralhas Permanecem Firmes
+42. Let's Make Our Halberds Shine! / Vamos Fazer Nossas Alabardas Brilharem!
+43. Pride of the Yuan Clan / Orgulho do Clã Yuan
+44. The Crouching Dragon's Trial / A Provação do Dragão Adormecido
+
+
+GAME_ID=50732
+# JOGO: World War Z (2019)
+
+[PRINCIPAIS]
+1. Descent / Decadência
+2. Tunnel Vision / Visão em Túnel
+3. Hell and High Water / A Qualquer Custo
+4. Dead in the Water / Por Água Abaixo
+5. Brain Surgery / Bicho de Sete Cabeças
+6. Dead Sea Stroll / Passeio no Mar Morto
+7. Tech Support / Suporte Técnico
+8. A Sign from Above / Um Sinal de Cima
+9. Key to the City / Chave da Cidade
+10. Battle of Nerves / Nervos em Guerra
+11. Resurrection / Ressurreição
+12. Setting Sun / Sol Poente
+13. Final Call / Última Chamada
+14. Cruise Control / Piloto Automático
+15. French Resistance / Resistência Francesa
+16. Missile Command / Comando de Mísseis
+17. Last Bastion / Último Bastião
+18. Holy Ground / Terra Santa
+19. Call to Arms / Chamado às Armas
+20. The Final Push / O Empurrão Final
+21. Dead of Winter / Inverno Mortal
+22. On the Grid / Na Rede
+23. Atomic Alliance / Aliança Atômica
+24. The Low Road / O Caminho Mais Baixo
+25. Trapped in Tempe / Presos em Tempe
+26. Fighting for Home / Lutando pelo Lar
+27. A Bad Hand / Uma Mão Ruim
+28. Forced Bets / Apostas Forçadas
+29. Final Table / Mesa Final
+30. The Last Breakout / A Última Fuga
+31. Blood & Bandages / Sangue e Bandagens
+32. A Broken Peace / Uma Paz Desfeita

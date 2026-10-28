@@ -246,3 +246,20 @@ GAME_ID=452650
 5. Lunum Mines / Minas de Lunum
 6. Experimental Pragmatics / Centro de Pragmática Experimental
 7. Central Port / Porto Central
+
+
+GAME_ID=14348
+# JOGO: Dying Light: The Following - Enhanced Edition
+
+[PRINCIPAIS]
+1. The Way Out / A Saída
+2. Kaan and Able / Kaan e Abel
+3. Gaining Credence / Conquistando Credibilidade
+4. Stranger in a Strange Land / Estranho em uma Terra Estranha
+5. The Gathering / A Reunião
+6. Anomalies / Anomalias
+7. Vanitas / Vaidade
+8. An Unfinished Story / Uma História Inacabada
+9. The Fate of the Fool / O Destino do Tolo
+10. At the End of the Tunnel / No Fim do Túnel
+11. The Following / Os Seguidores
